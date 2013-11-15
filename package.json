@@ -1,0 +1,21 @@
+{
+  "name": "express-resource-example",
+  "version": "0.1.0",
+  "description": "express-resource example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/express-resource-example.git"
+  },
+  "author": "bouzuya",
+  "license": "BSD",
+  "dependencies": {
+    "express-resource": "~1.0.0",
+    "express": "~3.4.4",
+    "supertest": "~0.8.1",
+    "mocha": "~1.14.0"
+  }
+}
